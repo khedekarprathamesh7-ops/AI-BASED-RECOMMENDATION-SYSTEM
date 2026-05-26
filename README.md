@@ -10,6 +10,8 @@ DOMAIN : JAVA
 
 DURATIONS : 4 WEEKS
 
+MENTOR : NEELA SANTOSH
+
 AI-Based Recommendation System using Java and Apache Mahout
 
 This project implements an AI-based Recommendation System using Java and Apache Mahout to suggest products according to user preferences and behavior. Recommendation systems are widely used in modern applications such as e-commerce websites, online streaming platforms, social media platforms, and digital content services. Their purpose is to help users discover products or content that match their interests. Instead of manually searching through a large number of options, users receive personalized suggestions based on their previous interactions and preferences.
